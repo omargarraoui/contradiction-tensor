@@ -1,0 +1,13 @@
+    Le debolezze:
+“contradiction” qui è semantica statistica, non logica formale;
+
+NLI moderno confonde spesso:
+    tensione pragmatica,
+    opposizione retorica,
+    vera inconsistenza;
+
+il tensor non è sfruttato molto oltre slicing per contesto;
+
+manca una teoria temporale: le credenze cambiano nel tempo ma il modello è statico;
+
+per N grandi diventa rumoroso e quadraticamente costoso.
